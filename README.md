@@ -15,9 +15,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
  Analysis R Script
  
  # Review Criteria
- Tidy data set should be submitted
+ Tidy data set should be submitted | (https://github.com/MuditaVats/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
  repo should contain  required scripts
- Github contains a code book | codebook.md
- README should be submitted
+ Github contains a code book | codebook.md | (https://github.com/MuditaVats/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md)
+ README should be submitted | (https://github.com/MuditaVats/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md)
  
  Analysis R Script
